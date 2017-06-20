@@ -1,16 +1,8 @@
-=== Frontuser - Free Web Push Notification & Popups Platform ===
-Contributors: Frontuser
-Tags: chrome, safari, push, push notifications, safari, chrome push, safari push, notifications, web push, notification, notify, firefox push, android, android push, android notifications, mobile notifications, desktop notifications, gcm, push messages, web popups, website popup, popup, smart popup, customizable, personalization, trigger based, frontuser
-Donate link: https://frontuser.com
-Requires at least: 3.9
-Tested up to: 4.6
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# Frontuser - Free Web Push Notification & Popups Platform
 
 Frontuser is a easiest platform to maximize user engagement, retention & conversion. It allows your WordPress site to send desktop and mobile personalized push notifications and customizable popups.
 
-== Description ==
+## Description
 
 [Frontuser](https://frontuser.com) is a cross-channel platform for customer retention & maximizing user acquisition via personalized web push notification and customized smart popup.
 
@@ -31,12 +23,12 @@ After setup, your visitors can opt-in to receive website push notification in de
 * **Matrix Object**: Utilize the power of matrix object to personalized push notification and popup content and build complex trigger behaviour segmentation rule.
 
 
->**Contribution**
->* [Rate and Review](https://wordpress.org/support/view/plugin-reviews/frontuser-integration?rate=5#postform) this plugin.
->* [Share with me](mailto:support@frontuser.com) if you have any ideas or suggestions to make this plugin better.
+**Contribution**
+* [Rate and Review](https://wordpress.org/support/view/plugin-reviews/frontuser-integration?rate=5#postform) this plugin.
+* [Share with me](mailto:support@frontuser.com) if you have any ideas or suggestions to make this plugin better.
 
 
-== Installation ==
+### Installation
 Install "Frontuser Integration" just as you would any other WordPress Plugin.
 
 Automatically via WordPress:
@@ -62,6 +54,5 @@ After installation, a "`Frontuser`" menu item will appear in the "`Left`" naviga
 
 * [Developer Website](https://frontuser.com)
 
-== Changelog ==
-= 1.0.0 =
-- Initial release of the plugin
+### Changelog
+* 1.0.0 - Initial release of the plugin
